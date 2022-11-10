@@ -1,0 +1,31 @@
+.favorite-brands__content{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+.favorite-brands__label{
+    font-family: 'Hind Siliguri';
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+color: #C72535;
+}
+.favorite-brands__title{
+    font-family: 'Hind Siliguri';
+font-weight: 600;
+font-size: 61px;
+line-height: 73px;
+padding-top: 10px;
+}
+.favorite-brands__title mark{
+    color: #247CC0;
+    background-color: rgba(216, 220, 226, 0.596)
+
+}
+.favorite-brands__subtitle{
+    font-family: 'Hind Siliguri';
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+max-width: 515px;
+}
